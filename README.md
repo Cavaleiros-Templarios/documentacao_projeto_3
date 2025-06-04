@@ -4,7 +4,7 @@ Este repositório contém a documentação oficial do Projeto Integrador 3, dese
 
 ## 📥 Download da Documentação
 
-[📄 Clique aqui para baixar o escopo do projeto (PDF)](https://github.com/Cavaleiros-Templarios/documentacao_projeto_3/raw/main/MODELO_ESCOPO_PROJETO_03.pdf)
+[MODELO_ESCOPO_PROJETO_03.pdf](https://github.com/user-attachments/files/20593818/MODELO_ESCOPO_PROJETO_03.pdf)
 
 ## 📌 Sobre o Projeto
 
