@@ -21,11 +21,11 @@ O projeto consiste em um sistema de gestão de CRM, utilizando tecnologias como:
 
 ## 👥 Integrantes
 
-- Wesley Lima  
-- Alex Ikezili  
-- Cristiano Forner  
-- Fabricio Soares  
-- Gustavo Lira  
-- Marcos Meneses  
-- Pedro Henrique  
-- Thiago Tasseli
+- Thiago Tasseli - MASTER
+- Pedro Henrique - TESTER
+- Alex Ikezili - TESTER
+- Wesley Lima - DEV
+- Cristiano Forner - DEV
+- Fabricio Soares - DEV
+- Gustavo Lira - DEV
+- Marcos Meneses - DEV
