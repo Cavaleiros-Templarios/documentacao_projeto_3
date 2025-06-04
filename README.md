@@ -8,7 +8,7 @@ Este repositório contém a documentação oficial do Projeto Integrador 3, dese
 
 ## 📌 Sobre o Projeto
 
-O projeto consiste em um sistema de gestão de recursos humanos, utilizando tecnologias como:
+O projeto consiste em um sistema de gestão de CRM, utilizando tecnologias como:
 
 - Java
 - Spring Boot
